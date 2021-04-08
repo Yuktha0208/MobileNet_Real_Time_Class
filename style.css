@@ -1,0 +1,53 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+    font-size: 30px;
+  }
+  .div_heading1
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px black;
+    float: none;
+  }
+  .div_heading2
+  {
+    font-size: 18px ;
+  }
+  .result_p_tag
+  {
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 50;
+  }
+
+  .copy_right_footer{
+    position: fixed;
+    line-height:3;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: dodgerblue;
+    color: rgb(0, 5, 48);
+    font-size: large;
+  }
+
+  body{
+    font-family:'Dancing Script', cursive;
+    }
+
+    .result_p_tag span{
+      white-space: pre-line;
+    }
+
+    canvas{
+      border: 4px solid whitesmoke;
+      box-shadow: 5px 5px 5px black;
+      border-radius: 45px;
+      margin-top: 100px;
+      position: ;
+    }
+ 
